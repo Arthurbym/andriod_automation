@@ -1,0 +1,1608 @@
+2020-11-02 15:15:41,514-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:15:41,600-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:15:41,600-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:17:43,919-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:17:43,958-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:17:43,958-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:18:19,463-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:18:19,500-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:18:19,501-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:18:40,295-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:18:40,332-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:18:40,332-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:18:53,159-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:18:53,198-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:18:53,198-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:19:04,105-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:19:04,147-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:19:04,147-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:19:21,021-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:19:21,059-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:19:21,059-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,436-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:22:22,547-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 15-22-22.html succeed
+2020-11-02 15:22:22,752-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:22:22,756-readexcel.py:[25]-[INFO]-reading login_page_elements succeed 
+2020-11-02 15:22:22,759-readexcel.py:[25]-[INFO]-reading login_test_date succeed 
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,760-readexcel.py:[34]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,761-readexcel.py:[34]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 15:22:22,762-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 15:22:22,763-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 15:22:27,284-driver.py:[12]-[ERROR]-FireFoxDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\PycharmProjects1\xiaozutest\retail\test_case\models\driver.py", line 10, in fireFoxDriver
+    self.driver = webdriver.Firefox()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\firefox\webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: permission denied
+
+2020-11-02 15:25:01,168-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 15:25:01,239-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 15-25-01.html succeed
+2020-11-02 15:25:01,368-readexcel.py:[25]-[INFO]-reading home_page_elements succeed 
+2020-11-02 15:25:01,372-readexcel.py:[25]-[INFO]-reading login_page_elements succeed 
+2020-11-02 15:25:01,376-readexcel.py:[25]-[INFO]-reading login_test_date succeed 
+2020-11-02 15:25:01,376-readexcel.py:[34]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,376-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,376-readexcel.py:[34]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,376-readexcel.py:[34]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,376-readexcel.py:[34]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,376-readexcel.py:[34]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,377-readexcel.py:[34]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,378-readexcel.py:[34]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 15:25:01,379-readexcel.py:[34]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 15:25:03,760-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 15:25:04,876-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 15:25:07,696-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 15:25:07,697-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 15:25:07,697-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 15:25:07,713-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:10,378-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:10,416-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 15:25:10,432-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:10,470-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 15:25:10,489-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:10,534-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 15:25:11,537-base_page.py:[64]-[ERROR]-find element timeout!
+Traceback (most recent call last):
+  File "D:\PycharmProjects1\xiaozutest\retail\test_case\page_obj\base_page.py", line 62, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(element))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17763 x86_64)
+
+2020-11-02 15:25:11,850-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_name_fail.png succeed
+2020-11-02 15:25:12,853-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 15:25:13,534-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 15:25:13,534-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 15:25:13,535-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 15:25:13,549-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:13,790-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:13,878-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 15:25:13,890-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:13,923-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 15:25:13,936-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:13,969-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 15:25:14,985-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:15,305-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_password_pass.png succeed
+2020-11-02 15:25:16,305-loginTc.py:[61]-[INFO]-test_login_fail_empty_user_password test completed 
+2020-11-02 15:25:16,309-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 15:25:16,786-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 15:25:16,787-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 15:25:16,787-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 15:25:16,800-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:16,948-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:17,003-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 15:25:17,014-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:17,076-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 15:25:17,089-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:17,125-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 15:25:18,130-base_page.py:[64]-[ERROR]-find element timeout!
+Traceback (most recent call last):
+  File "D:\PycharmProjects1\xiaozutest\retail\test_case\page_obj\base_page.py", line 62, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(element))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17763 x86_64)
+
+2020-11-02 15:25:18,436-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_fail.png succeed
+2020-11-02 15:25:19,439-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 15:25:19,925-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 15:25:19,925-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 15:25:19,925-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 15:25:19,940-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:20,092-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:20,167-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 15:25:20,178-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:20,241-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 222222
+2020-11-02 15:25:20,255-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:20,295-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 15:25:20,365-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:20,374-loginTc.py:[34]-[INFO]-el-message el-message--error el-message-fade-enter-active el-message-fade-enter-to
+2020-11-02 15:25:22,691-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_password_pass.png succeed
+2020-11-02 15:25:23,691-loginTc.py:[44]-[INFO]-test_login_fail_incorrect_user_password test completed 
+2020-11-02 15:25:23,694-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 15:25:24,192-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 15:25:24,192-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 15:25:24,192-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 15:25:24,206-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:24,353-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:24,436-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 15:25:24,449-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:24,516-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 15:25:24,529-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 15:25:24,566-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 15:25:26,861-base_page.py:[203]-[INFO]-save screenshot test_login_succeed_correct_user_password_pass.png succeed
+2020-11-02 15:25:27,862-loginTc.py:[26]-[INFO]-test_login_succeed_correct_user_password test completed 
+2020-11-02 15:25:27,865-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 15:25:29,982-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 21:05:15,137-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 21:05:15,208-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 21-05-15.html succeed
+2020-11-02 21:05:15,331-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 21:05:15,335-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 21:05:15,339-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,340-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,341-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 21:05:15,342-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 21:05:15,343-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 21:05:15,343-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 21:05:17,488-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 21:05:18,606-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 21:05:21,841-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:05:21,841-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:05:21,841-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:05:21,859-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:24,548-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:24,592-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 21:05:24,605-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:24,634-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 21:05:24,647-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:24,678-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:05:25,680-base_page.py:[64]-[ERROR]-find element timeout!
+Traceback (most recent call last):
+  File "D:\PycharmProjects1\xiaozutest\retail\test_case\page_obj\base_page.py", line 62, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(element))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17763 x86_64)
+
+2020-11-02 21:05:26,003-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_name_fail.png succeed
+2020-11-02 21:05:27,007-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:05:27,577-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:05:27,577-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:05:27,577-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:05:27,591-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:27,760-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:27,850-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 21:05:27,862-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:27,897-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 21:05:27,908-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:27,948-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:05:28,970-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:29,295-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_password_pass.png succeed
+2020-11-02 21:05:30,295-loginTc.py:[61]-[INFO]-test_login_fail_empty_user_password test completed 
+2020-11-02 21:05:30,298-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:05:30,981-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:05:30,981-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:05:30,982-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:05:30,996-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:31,136-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:31,197-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 21:05:31,208-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:31,283-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 21:05:31,293-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:31,336-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:05:32,339-base_page.py:[64]-[ERROR]-find element timeout!
+Traceback (most recent call last):
+  File "D:\PycharmProjects1\xiaozutest\retail\test_case\page_obj\base_page.py", line 62, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(element))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 10.0.17763 x86_64)
+
+2020-11-02 21:05:32,633-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_fail.png succeed
+2020-11-02 21:05:33,636-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:05:34,150-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:05:34,150-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:05:34,150-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:05:34,163-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:34,313-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:34,404-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 21:05:34,417-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:34,487-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 222222
+2020-11-02 21:05:34,500-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:34,539-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:05:34,608-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:34,618-loginTc.py:[34]-[INFO]-el-message el-message--error el-message-fade-enter-active el-message-fade-enter-to
+2020-11-02 21:05:36,921-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_password_pass.png succeed
+2020-11-02 21:05:37,922-loginTc.py:[44]-[INFO]-test_login_fail_incorrect_user_password test completed 
+2020-11-02 21:05:37,925-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:05:38,354-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:05:38,355-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:05:38,355-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:05:38,369-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:38,512-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:38,594-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 21:05:38,606-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:38,673-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 21:05:38,685-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:05:38,726-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:05:41,024-base_page.py:[203]-[INFO]-save screenshot test_login_succeed_correct_user_password_pass.png succeed
+2020-11-02 21:05:42,024-loginTc.py:[26]-[INFO]-test_login_succeed_correct_user_password test completed 
+2020-11-02 21:05:42,028-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:05:44,184-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 21:43:12,779-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 21:43:12,850-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 21-43-12.html succeed
+2020-11-02 21:43:12,976-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 21:43:12,980-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 21:43:12,984-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 21:43:12,984-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,985-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,986-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 21:43:12,987-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 21:43:15,190-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 21:43:16,305-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 21:43:19,167-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:43:19,167-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:43:19,167-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:43:19,184-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:21,888-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:21,923-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 21:43:21,945-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:21,988-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 21:43:22,005-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:22,054-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:43:23,069-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:23,100-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:23,437-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_name_fail.png succeed
+2020-11-02 21:43:24,442-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:43:25,106-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:43:25,106-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:43:25,106-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:43:25,120-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:25,294-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:25,355-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 21:43:25,366-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:25,430-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 21:43:25,442-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:25,476-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:43:26,501-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:43:26,838-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_fail.png succeed
+2020-11-02 21:43:27,841-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:43:29,972-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 21:45:58,789-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 21:45:59,008-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 21:45:59,012-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 21:45:59,016-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,016-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,017-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,018-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 21:45:59,019-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 21:46:01,138-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 21:46:02,257-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 21:46:04,630-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:46:04,630-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:46:04,630-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:46:04,649-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:46:07,758-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:46:07,828-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 21:46:07,842-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:46:07,907-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 21:46:07,926-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:46:07,979-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:46:08,996-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:46:09,311-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_fail.png succeed
+2020-11-02 21:46:10,315-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:46:12,441-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 21:51:22,475-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 21:51:22,660-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 21:51:22,664-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 21:51:22,668-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 21:51:22,668-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,668-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 21:51:22,669-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,670-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 21:51:22,671-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 21:51:24,776-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 21:51:25,895-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 21:51:28,962-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:51:28,962-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:51:28,962-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:51:28,978-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:51:31,624-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:51:31,657-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 21:51:31,673-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:51:31,708-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 21:51:31,725-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:51:31,785-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:51:32,801-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:51:32,832-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:51:33,172-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_name_fail.png succeed
+2020-11-02 21:51:34,176-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:51:36,315-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 21:58:31,407-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 21:58:31,588-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 21:58:31,593-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 21:58:31,597-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,597-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,598-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,599-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 21:58:31,600-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 21:58:33,738-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 21:58:34,855-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 21:58:37,736-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:58:37,736-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:58:37,736-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:58:37,756-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:58:40,824-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:58:40,882-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 21:58:40,897-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:58:40,965-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 21:58:40,981-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:58:41,021-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:58:42,039-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:58:42,386-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_fail.png succeed
+2020-11-02 21:58:43,390-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 21:58:45,535-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 21:59:47,780-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 21:59:47,969-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 21:59:47,972-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 21:59:47,977-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,978-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,979-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 21:59:47,980-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 21:59:47,981-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 21:59:47,981-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 21:59:47,981-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 21:59:47,981-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 21:59:47,981-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 21:59:50,169-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 21:59:51,286-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 21:59:53,738-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 21:59:53,738-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 21:59:53,739-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 21:59:53,756-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:59:56,896-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:59:56,968-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 21:59:56,981-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:59:57,040-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 21:59:57,057-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:59:57,100-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 21:59:58,117-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 21:59:58,464-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_pass.png succeed
+2020-11-02 21:59:59,465-loginTc.py:[80]-[INFO]-test_login_fail_incorrect_user_name test completed 
+2020-11-02 21:59:59,468-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:00:01,614-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 22:00:38,356-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 22:00:38,429-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 22-00-38.html succeed
+2020-11-02 22:00:38,562-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 22:00:38,566-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 22:00:38,570-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,570-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,571-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,572-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,573-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 22:00:38,574-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 22:00:40,700-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 22:00:41,818-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 22:00:44,245-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:00:44,245-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:00:44,245-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:00:44,263-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:48,803-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:48,835-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 22:00:48,849-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:48,886-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 22:00:48,902-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:48,962-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:00:49,979-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:50,009-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:50,353-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_name_pass.png succeed
+2020-11-02 22:00:51,354-loginTc.py:[99]-[INFO]-test_login_fail_empty_user_name test completed 
+2020-11-02 22:00:51,357-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:00:51,979-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:00:51,979-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:00:51,979-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:00:51,996-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:52,176-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:52,254-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 22:00:52,269-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:52,337-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:00:52,348-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:52,404-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:00:53,419-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:00:53,758-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_pass.png succeed
+2020-11-02 22:00:54,758-loginTc.py:[80]-[INFO]-test_login_fail_incorrect_user_name test completed 
+2020-11-02 22:00:54,761-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:00:56,908-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 22:03:03,470-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 22:03:03,543-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 22-03-03.html succeed
+2020-11-02 22:03:03,679-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 22:03:03,683-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 22:03:03,687-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,687-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,688-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,689-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 22:03:03,690-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 22:03:03,691-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 22:03:05,800-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 22:03:06,917-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 22:03:09,857-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:03:09,857-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:03:09,857-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:03:09,875-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:13,100-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:13,139-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 22:03:13,158-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:13,207-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 22:03:13,225-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:13,272-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:03:14,289-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:14,321-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:14,656-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_name_pass.png succeed
+2020-11-02 22:03:15,656-loginTc.py:[99]-[INFO]-test_login_fail_empty_user_name test completed 
+2020-11-02 22:03:15,659-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:03:16,275-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:03:16,276-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:03:16,276-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:03:16,289-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:16,454-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:16,547-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 22:03:16,559-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:16,591-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 22:03:16,605-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:16,641-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:03:17,654-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:17,972-base_page.py:[193]-[INFO]-save screenshot test_login_fail_empty_user_password_pass.png succeed
+2020-11-02 22:03:18,973-loginTc.py:[61]-[INFO]-test_login_fail_empty_user_password test completed 
+2020-11-02 22:03:18,975-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:03:19,467-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:03:19,467-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:03:19,467-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:03:19,482-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:19,651-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:19,716-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 22:03:19,729-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:19,797-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:03:19,809-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:19,848-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:03:20,861-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:21,175-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_pass.png succeed
+2020-11-02 22:03:22,176-loginTc.py:[80]-[INFO]-test_login_fail_incorrect_user_name test completed 
+2020-11-02 22:03:22,179-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:03:22,797-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:03:22,797-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:03:22,797-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:03:22,812-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:22,959-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:23,044-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 22:03:23,055-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:23,116-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 222222
+2020-11-02 22:03:23,128-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:23,165-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:03:23,743-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:23,751-loginTc.py:[34]-[INFO]-el-message el-message--error
+2020-11-02 22:03:26,049-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_password_pass.png succeed
+2020-11-02 22:03:27,050-loginTc.py:[44]-[INFO]-test_login_fail_incorrect_user_password test completed 
+2020-11-02 22:03:27,053-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:03:27,561-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:03:27,561-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:03:27,561-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:03:27,576-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:27,740-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:27,829-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 22:03:27,841-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:27,910-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:03:27,924-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:03:27,972-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:03:30,286-base_page.py:[203]-[INFO]-save screenshot test_login_succeed_correct_user_password_pass.png succeed
+2020-11-02 22:03:31,287-loginTc.py:[26]-[INFO]-test_login_succeed_correct_user_password test completed 
+2020-11-02 22:03:31,289-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:03:33,491-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 22:06:35,850-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 22:06:35,925-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 22-06-35.html succeed
+2020-11-02 22:06:36,059-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 22:06:36,063-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 22:06:36,066-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 22:06:36,066-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,067-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,068-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 22:06:36,069-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 22:06:38,235-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 22:06:39,350-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 22:06:42,228-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:06:42,228-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:06:42,228-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:06:42,247-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:06:45,294-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:06:45,364-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 22:06:45,383-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:06:45,458-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:06:45,475-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:06:45,513-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:06:46,529-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:06:46,845-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_pass.png succeed
+2020-11-02 22:06:47,847-loginTc.py:[80]-[INFO]-test_login_fail_incorrect_user_name test completed 
+2020-11-02 22:06:47,851-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:06:50,411-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 22:20:37,250-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 22:20:37,322-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 22-20-37.html succeed
+2020-11-02 22:20:37,456-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 22:20:37,460-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 22:20:37,464-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 22:20:37,464-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,465-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,466-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 22:20:37,467-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 22:20:37,468-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 22:20:37,468-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 22:20:37,468-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 22:20:37,468-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 22:20:37,468-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 22:20:39,632-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 22:20:40,748-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 22:20:43,587-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:20:43,587-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:20:43,587-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:20:43,605-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:20:46,423-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:20:46,495-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 22:20:46,512-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:20:46,576-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:20:46,594-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:20:46,629-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:20:47,645-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:20:47,995-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_pass.png succeed
+2020-11-02 22:20:48,995-loginTc.py:[80]-[INFO]-test_login_fail_incorrect_user_name test completed 
+2020-11-02 22:20:48,999-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:20:51,574-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 22:25:09,895-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 22:25:09,964-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 22-25-09.html succeed
+2020-11-02 22:25:10,095-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 22:25:10,099-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 22:25:10,104-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,104-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,105-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,106-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 22:25:10,107-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 22:25:12,298-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 22:25:13,414-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 22:25:16,114-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:25:16,114-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:25:16,114-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:25:16,133-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:25:20,660-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:25:20,732-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 22:25:20,746-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:25:20,814-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:25:20,833-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:25:20,868-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:25:21,883-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:25:22,232-base_page.py:[193]-[INFO]-save screenshot test_login_fail_incorrect_user_name_pass.png succeed
+2020-11-02 22:25:23,232-loginTc.py:[80]-[INFO]-test_login_fail_incorrect_user_name test completed 
+2020-11-02 22:25:23,236-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:25:25,396-myunittest.py:[33]-[INFO]-quit the browser succeed
+2020-11-02 22:49:59,935-doconfini.py:[18]-[INFO]-read excel value [D:\PycharmProjects1\xiaozutest] succeed! 
+2020-11-02 22:50:00,007-testreport.py:[33]-[INFO]-generate test report D:\PycharmProjects1\xiaozutest\retail\report\testreport\普通测试报告2020-11-02 22-50-00.html succeed
+2020-11-02 22:50:00,139-readexcel.py:[26]-[INFO]-reading home_page_elements succeed 
+2020-11-02 22:50:00,143-readexcel.py:[26]-[INFO]-reading login_page_elements succeed 
+2020-11-02 22:50:00,147-readexcel.py:[26]-[INFO]-reading login_test_date succeed 
+2020-11-02 22:50:00,147-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,147-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,147-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,148-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName home_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 6,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 6,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 7,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 7,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 8,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 8,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 9,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 9,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,149-readexcel.py:[35]-[INFO]-read value 10,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 10,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 11,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 11,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 12,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 12,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 13,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 13,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 14,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 14,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,150-readexcel.py:[35]-[INFO]-read value 15,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 15,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 16,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 16,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 17,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 17,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 31,2 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 31,3 in sheetName login_page_elements succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 1,2 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 1,3 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 2,2 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 2,3 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 3,2 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 3,3 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 4,2 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 4,3 in sheetName login_test_date succeed
+2020-11-02 22:50:00,151-readexcel.py:[35]-[INFO]-read value 5,2 in sheetName login_test_date succeed
+2020-11-02 22:50:00,152-readexcel.py:[35]-[INFO]-read value 5,3 in sheetName login_test_date succeed
+2020-11-02 22:50:02,295-driver.py:[25]-[INFO]-found the chrome driver succeed
+2020-11-02 22:50:03,411-myunittest.py:[15]-[INFO]-open the browser succeed
+2020-11-02 22:50:07,168-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:50:07,169-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:50:07,169-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:50:07,186-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:09,609-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:09,713-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 22:50:09,727-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:09,789-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:50:09,804-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:09,849-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:50:12,162-base_page.py:[205]-[INFO]-save screenshot test_login_correct_user_correct_password_pass.png succeed
+2020-11-02 22:50:13,163-loginTc.py:[26]-[INFO]-test_login_correct_user_correct_password test completed 
+2020-11-02 22:50:13,166-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:50:13,711-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:50:13,712-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:50:13,712-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:50:13,727-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:13,897-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:13,982-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 22:50:13,992-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:14,026-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 22:50:14,039-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:14,088-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:50:15,105-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:15,416-base_page.py:[205]-[INFO]-save screenshot test_login_correct_user_empty_password_pass.png succeed
+2020-11-02 22:50:16,416-loginTc.py:[61]-[INFO]-test_login_correct_user_empty_password test completed 
+2020-11-02 22:50:16,420-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:50:16,972-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:50:16,973-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:50:16,973-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:50:16,987-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:17,130-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:17,213-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757181215
+2020-11-02 22:50:17,225-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:17,289-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 222222
+2020-11-02 22:50:17,302-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:17,339-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:50:17,407-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:17,417-loginTc.py:[34]-[INFO]-el-message el-message--error el-message-fade-enter-active el-message-fade-enter-to
+2020-11-02 22:50:19,721-base_page.py:[205]-[INFO]-save screenshot test_login_correct_user_incorrect_password_pass.png succeed
+2020-11-02 22:50:20,721-loginTc.py:[44]-[INFO]-test_login_correct_user_incorrect_password test completed 
+2020-11-02 22:50:20,724-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:50:21,209-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:50:21,209-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:50:21,209-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:50:21,223-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:21,381-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:21,417-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 
+2020-11-02 22:50:21,431-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:21,467-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 
+2020-11-02 22:50:21,484-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:21,529-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:50:22,545-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:22,572-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:22,888-base_page.py:[205]-[INFO]-save screenshot test_login_empty_user_empty_name_pass.png succeed
+2020-11-02 22:50:23,889-loginTc.py:[99]-[INFO]-test_login_empty_user_empty_name test completed 
+2020-11-02 22:50:23,892-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:50:24,368-base_page.py:[50]-[INFO]-_open open url http://xiaozu365.com succeed
+2020-11-02 22:50:24,368-base_page.py:[55]-[INFO]-open url http://xiaozu365.com succeed
+2020-11-02 22:50:24,368-myunittest.py:[21]-[INFO]-start run test case
+2020-11-02 22:50:24,382-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:24,529-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:24,589-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[1]/div/div/input') has be receive value 15757
+2020-11-02 22:50:24,600-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:24,665-base_page.py:[88]-[INFO]-element ('xpath', '//*[@id="app"]/div/div/div/div/div[1]/form/div[2]/div/div/input') has be receive value 111111
+2020-11-02 22:50:24,676-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:24,715-login_page.py:[63]-[INFO]-clickLogin logging ....
+2020-11-02 22:50:25,727-base_page.py:[67]-[INFO]-find element succeed
+2020-11-02 22:50:26,042-base_page.py:[205]-[INFO]-save screenshot test_login_incorrect_user_correct_name_pass.png succeed
+2020-11-02 22:50:27,043-loginTc.py:[80]-[INFO]-test_login_incorrect_user_correct_name test completed 
+2020-11-02 22:50:27,047-myunittest.py:[26]-[INFO]-test case run completed
+2020-11-02 22:50:29,189-myunittest.py:[33]-[INFO]-quit the browser succeed
